@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "onboarding-1",
+      "description": "What is SOS Emergency",
+      "imageUrl": "https://picsum.photos/seed/sos1/600/800",
+      "imageHint": "emergency alert"
+    },
+    {
+      "id": "onboarding-2",
+      "description": "How to use",
+      "imageUrl": "https://picsum.photos/seed/sos2/600/800",
+      "imageHint": "safety help"
+    },
+    {
+      "id": "onboarding-3",
+      "description": "Permissions guide",
+      "imageUrl": "https://picsum.photos/seed/sos3/600/800",
+      "imageHint": "security privacy"
+    },
+    {
+      "id": "guide-cpr",
+      "description": "Correct hand placement for CPR chest compressions",
+      "imageUrl": "https://picsum.photos/seed/cpr-hand-position-1/400/300",
+      "imageHint": "cpr hands"
+    },
+    {
+      "id": "guide-aed",
+      "description": "AED instructional visual guide",
+      "imageUrl": "https://picsum.photos/seed/aed-device-1/400/300",
+      "imageHint": "aed device"
+    }
+  ]
+}
