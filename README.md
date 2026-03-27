@@ -2,6 +2,8 @@
 
 An intuitive, high-performance emergency response application built with Next.js. This app is designed for rapid intervention during critical situations, allowing users to alert trusted contacts and locate life-saving equipment in seconds.
 
+![image](https://github.com/luckyforyun/OneClickSOS/blob/main/image.png)
+
 ## 🚀 Features
 
 - **Instant SOS Activation**: A prominent long-press button with a safety countdown to prevent accidental triggers. Includes haptic and visual feedback.
